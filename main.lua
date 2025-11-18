@@ -122,6 +122,7 @@ local compatibilityUniverses = {
 	[7848646653] = true, -- Break your Bones
 	[6401952734] = true, -- PETS GO!
 	[3989869156] = true, -- ANTS WAR
+	[111958650] = true,  -- Arsenal
 }
 
 if compatibilityPlaces[game.PlaceId] or compatibilityUniverses[game.GameId] then
